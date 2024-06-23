@@ -1,8 +1,8 @@
-# e
+# MB
 my app
 
 
-Please consider the below factors while contributing
+Please consider the factors below while contributing
 Code Style:
 Maintain a consistent code style for readability.
 Documentation:
